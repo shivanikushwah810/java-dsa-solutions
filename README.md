@@ -1,29 +1,54 @@
-# Project Title: Java DSA Solutions
+# 💻 Daily DSA Problem Solving ((100 Days DSA Challenge))
 
-## 📌 About the Project
-This project contains solutions of Data Structures and Algorithms problems using Java. It helps improve problem-solving and coding skills.
+Welcome to my **Daily Data Structures & Algorithms Practice Repository** 🚀
 
-## 🚀 Features
-- Array problems
-- String problems
+This repository contains my daily practice of coding problems in **Java**.  
+I solve one or more problems every day to improve my problem-solving skills, logic building, and preparation for technical interviews.
+
+---
+
+## 🎯 Purpose of This Repository
+- Build strong foundation in Data Structures & Algorithms
+- Improve coding and problem-solving skills
+- Prepare for **placement interviews (Service-based + Product-based companies)**
+- Maintain consistency and discipline in coding practice
+
+---
+
+## 🧠 What I Practice Daily
+- Arrays
+- Strings
 - Linked List
 - Stack & Queue
-- Trees & Graphs
-- Sorting & Searching algorithms
+- Trees & Binary Trees
+- Recursion & Backtracking
+- Sorting & Searching
+- Basic Dynamic Programming
 
-## 🛠️ Tech Stack
-- Java
-- VS Code 
+---
 
+---
 
-## ▶️ How to Run
-1. Clone the repository
-2. Open in VS Code or IntelliJ
-3. Compile Java files
-4. Run main method
+## 🚀 Tech Stack
+- Language: Java ☕  
+- Tools: VS Code / IntelliJ IDEA  
+- Platform: LeetCode / GFG / Self Practice  
+
+---
+
+## 📈 Progress Goal
+- ✔ 1 Problem Daily  
+- ✔ Improve consistency  
+- ✔ Build strong DSA logic  
+- ✔ Reach interview-ready level  
+
+---
+
+## ⭐ Motivation
+_"Consistency is more important than intensity. Small daily improvements lead to big results." 
+
+---
 
 ## 👩‍💻 Author
-Shivani Kushwah
-
-## ⭐ Purpose
-This project is made for DSA practice and placement preparation.
+Shivani Kushwah  
+Aspiring Software Developer | Java | DSA | AI Enthusiast
