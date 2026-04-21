@@ -1,5 +1,5 @@
 import java.io.*;
-class GFG {
+classswapping num  {
     public static void main(String[] args)
     {
         int a = 5, b = 10;
