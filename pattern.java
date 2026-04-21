@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Geeks {
+public class pattern{
     
     public static void printPattern(int n)
     {
