@@ -30,7 +30,7 @@ I solve one or more problems every day to improve my problem-solving skills, log
 ##  Tech Stack
 - Language: Java ☕  
 - Tools: VS Code  
-- Platform: LeetCode / GFG / Self Practice  
+- Platform: LeetCode / code for suceess/ Self Practice  
 
 ---
 
